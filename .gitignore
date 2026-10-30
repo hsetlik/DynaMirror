@@ -1,0 +1,12 @@
+gerber*
+*-backups
+*.zip
+Simulations/*.raw
+Simulations/*.log
+Simulations/*.net
+Panel
+*.history
+*/.history
+*.DS_STORE
+fp-info-cache
+
